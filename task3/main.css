@@ -1,0 +1,37 @@
+.box{
+    background-color: antiquewhite;
+}
+.f11{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.as{
+    font-style: italic;
+}
+.af{
+    text-decoration-color: aqua;
+}
+.sasi{
+    padding-right: 500px;
+    margin-right: 20px;
+}
+.products {
+            display: flex;
+            gap: 100px;
+            align-items: flex-start;
+        }
+
+        .product {
+            text-align: center;
+        }
+
+        .product img {
+            width: 250px;
+            height: 250px;
+            
+        }
+
+        .price {
+            font-size: 18px;
+            font-weight: bold;
+        }

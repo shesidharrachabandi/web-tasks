@@ -1,0 +1,22 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: cornsilk;
+}
+
+header {
+    background-color: #4b0082;
+    color: yellow;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: green;
+    text-align: center;
+    padding: 12px;
+}
+.ss1 {
+    background-color: orange;
+}

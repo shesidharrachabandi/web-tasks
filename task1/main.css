@@ -1,0 +1,33 @@
+body {
+            background-color: white;
+            text-align: center;
+            font-family: Arial;
+            background-image:url(https://www.google.com/imgres?q=gym%20background%20images&imgurl=https%3A%2F%2Fasset.gecdesigns.com%2Fimg%2Fdesign-assets%2Fpremium-gym-interior-with-workout-equipment-and-sunlight-with-copy-space-fitness-and-gym-background-image-sr01042619-cover.webp&imgrefurl=https%3A%2F%2Fgecdesigns.com%2Fdesign-assets%2Ffree%2Fpremium-gym-interior-with-workout-equipment-and-sunlight-with-copy-space-fitness-and-gym-background-image-sr01042619&docid=gRnh_4ZN2K0_BM&tbnid=i5pFATqaaIOdgM&vet=12ahUKEwir65XO1NSXAxX8iuEIHfFOI_IQnPAOegQIPRAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwir65XO1NSXAxX8iuEIHfFOI_IQnPAOegQIPRAA);
+        }
+
+        h1 {
+            background-color: black;
+            color: white;
+            padding: 15px;
+        }
+
+        h2 {
+            color: red;
+        }
+
+        button {
+            background-color: orange;
+            padding: 10px;
+        }
+        ss {
+            background-image:url(https://www.google.com/imgres?q=gym%20background%20images&imgurl=https%3A%2F%2Fasset.gecdesigns.com%2Fimg%2Fdesign-assets%2Fpremium-gym-interior-with-workout-equipment-and-sunlight-with-copy-space-fitness-and-gym-background-image-sr01042619-cover.webp&imgrefurl=https%3A%2F%2Fgecdesigns.com%2Fdesign-assets%2Ffree%2Fpremium-gym-interior-with-workout-equipment-and-sunlight-with-copy-space-fitness-and-gym-background-image-sr01042619&docid=gRnh_4ZN2K0_BM&tbnid=i5pFATqaaIOdgM&vet=12ahUKEwir65XO1NSXAxX8iuEIHfFOI_IQnPAOegQIPRAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwir65XO1NSXAxX8iuEIHfFOI_IQnPAOegQIPRAA);
+        }
+        body {
+            background-image: url("d.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        p{
+            color: blue;
+        }
+    
